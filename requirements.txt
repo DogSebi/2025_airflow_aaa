@@ -2,3 +2,4 @@ polars==1.25.2
 implicit
 loguru
 mlflow
+catboost
